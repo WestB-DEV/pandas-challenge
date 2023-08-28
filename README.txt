@@ -2,7 +2,7 @@ At the end of the day, the goal of a school is to equip kids to achieve good (pa
 
 1. Regarding the top 8 positions for schools based on the percentage of students passing overall, only 1 school exceeds 2k students. Considering that the lower 50% of successful schools based on the percentage of overall passing students all exceed 2k students, getting closer to an average of 3-4k students, this finding suggests that, for the sake of scholastic success, schools should not exceed 2k students.
 
-2. A minimum expenditure of $580 per student seems to be necessary to enter the top 5; anything above that appears to result in diminishing returns, colloquially known as wasted funds.
+2. A minimum expenditure of about $580 per student seems to be necessary to enter the top 5; anything above that appears to result in diminishing returns, aka wasted funds.
 
 
 Lastly, I found that the provided information was incomplete, as there are a few more factors to examine:
